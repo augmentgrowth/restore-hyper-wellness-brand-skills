@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python (build scripts may exist locally during edits)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Working artifacts
+*.bak
+*.tmp
+.archive/
+_*.html
+_*.md
+/tmp/
+
+# Local Claude Code state (if anyone clones into a working folder)
+.claude/
+
+# Test outputs from skill validation runs
+validation-output/
+test-output/
+
+# Demo screenshot intermediates (embedded into PDFs, not shipped raw)
+03_Demos/brand_showcase.png
+03_Demos/welcome_email.png
