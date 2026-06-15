@@ -1,6 +1,6 @@
 ---
 name: restore-hyper-wellness-voice
-version: 1.1.0
+version: 1.1.1
 description: |
   Write in Restore Hyper Wellness's brand voice for any content type. Use when writing
   ad copy, social posts, website copy, email, landing pages, video scripts, or any
@@ -74,7 +74,7 @@ For deeper channel guidance (ad compliance, hashtag conventions, scenario templa
 - **`references/channels.md`** — when prompt names a channel and you need ad compliance specifics, hashtag sets, scenario templates.
 - **`references/vocabulary.md`** — for therapy-specific approved claims, brand stats, full forbidden/preferred terminology.
 
-The canonical source is `../Restore_Brand_Voice_Guide.md`. If anything here conflicts with the guide, the guide wins.
+The canonical source is the Restore Brand Guidelines deck (owned by kristamaloney@restore.com). If anything here conflicts with the deck, the deck wins until this skill is updated.
 
 ## Pre-flight check (run before EVERY response)
 
