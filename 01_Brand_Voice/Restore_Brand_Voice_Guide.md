@@ -39,7 +39,7 @@ Write like a clinician who's also a friend — credible enough to trust with you
 - **AP Style.** Numerals for time, ages, percentages, dates, money. Hyphenate compound modifiers before nouns (`10-year-old runner`). No hyphens after -ly adverbs (`highly rated product`).
 - **Em dashes —** no spaces on either side (exception to AP Style). Use sparingly: 1–2 per piece max.
 - **No semicolons.** Use periods or em dashes instead.
-- **Exclamation points: keep to a minimum.** Maximum 1 per piece. Never `!!`.
+- **Exclamation points: keep to a minimum.** Use to add energy or emphasize a key point—but never more than one per paragraph, and never doubled (!!).
 - **Title Case for marketing headlines.** Capitalize prepositions of 4+ letters (With, From, Over, Into, Between). Lowercase shorter prepositions (of, to, in, on) unless first or last.
 - **Trademarks intact.** Hydrafacial™, Neveskin™, NormaTec, etc. — include marks on first mention.
 
